@@ -7,12 +7,13 @@ This document illustrates the structure of the data deposited on Zenodo. You can
 [![DOI](https://www.zenodo.org/badge/DOI/10.5281/zenodo.4903635.svg)](https://doi.org/10.5281/zenodo.4903635)
 
 
-
+```
 .\
 ├───Cost_data
 ├───Growth_Curves
 ├───Proteome
 └───RNAseq
+```
 
 ## RNAseq
 Processed data used for the paper - raw data available at the ArrayExpress repository of the European Bioinformatics Institute under the E-MTAB-7359 accession.
