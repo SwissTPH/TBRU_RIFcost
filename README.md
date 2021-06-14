@@ -1,8 +1,4 @@
 # TBRU_RIFcost
-==============================
-
-
-[![DOI](https://zenodo.org/badge/XXXXXXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXXX)
 
 The data pertinent to the analyses can be on zenodo, with DOI-references:
 [![DOI](https://www.zenodo.org/badge/DOI/10.5281/zenodo.4903635.svg)](https://doi.org/10.5281/zenodo.4903635)
