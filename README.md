@@ -1,6 +1,6 @@
 # TBRU_RIFcost
 
-The data pertinent to the analyses can be on zenodo, with DOI-references:
+The data pertinent to the analyses can be on accessed on zenodo, with DOI-reference:
 [![DOI](https://www.zenodo.org/badge/DOI/10.5281/zenodo.4903635.svg)](https://doi.org/10.5281/zenodo.4903635)
 
 ### This study was performed by:
